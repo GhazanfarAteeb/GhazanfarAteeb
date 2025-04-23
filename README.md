@@ -7,7 +7,7 @@
  /></a>
  <a href="https://github.com/ghazanfarateeb"
   ><img
-   src="https://wakatime.com/badge/user/921dd2f5-b40c-4c20-a684-53d03b4afbc7.svg?style=for-the-badge"
+   src="https://wakatime.com/badge/user/e54f83ba-05ad-4bef-b8eb-944ff84a7d00.svg"
  /></a>
 </section>
 
