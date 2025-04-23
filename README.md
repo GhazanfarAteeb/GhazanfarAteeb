@@ -1,16 +1,82 @@
-## Hi there 👋
+# I'm Ghazanfar Ateeb. 🧑‍💻
 
-<!--
-**GhazanfarAteeb/GhazanfarAteeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section align="center">
+ <a href="https://github.com/ghazanfarateeb"
+  ><img
+   src="https://komarev.com/ghpvc/?style=for-the-badge&username=ghazanfarateeb"
+ /></a>
+ <a href="https://github.com/ghazanfarateeb"
+  ><img
+   src="https://wakatime.com/badge/user/921dd2f5-b40c-4c20-a684-53d03b4afbc7.svg?style=for-the-badge"
+ /></a>
+</section>
 
-Here are some ideas to get you started:
+## Connect with me 🔗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section align="center">
+ <a href="https://www.facebook.com/ghazanfar.ateeb.9/"
+  ><img
+   src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=FFFFFF&style=for-the-badge"
+ /></a>
+ <a href="https://www.instagram.com/ghazanfar.ateeb9125/"
+  ><img
+   src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=FFFFFF&style=for-the-badge"
+ /></a>
+ <a href="https://www.linkedin.com/in/ghazanfar-ateeb-41b627210/"
+  ><img
+   src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=FFFFFF&style=for-the-badge"
+ /></a>
+</section>
+
+## GitHub Analytics 📈
+
+<section align="center">
+ <a href="https://github.com/ghazanfarateeb"
+  ><img
+   src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=ghazanfarateeb"
+ /></a>
+</section>
+
+## Languages and Tools ⚙
+
+<section align="center">
+ <a href="https://github.com/ghazanfarateeb"
+  ><img
+   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?layout=compact&theme=dark&username=ghazanfarateeb"
+ /></a>
+</section>
+
+---
+
+<details>
+ <summary>Watch my contributions eaten by 🐍</summary>
+ <section align="center">
+  <a href="https://github.com/ghazanfarateeb"
+   ><img
+    src="https://github.com/ghazanfarateeb/ghazanfarateeb/blob/GIF/github-contribution-grid-snake-dark.svg"
+  /></a>
+ </section>
+</details>
+
+---
+
+<details>
+ <summary>Weekly DevMetrics 📈</summary>
+<!--START_SECTION:waka-->
+
+```txt
+From: 15 April 2025 - To: 22 April 2025
+
+Total Time: 33 hrs 2 mins
+
+JavaScript    17 hrs 11 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.02 %
+TypeScript    10 hrs 11 mins  ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.82 %
+JSON          1 hr 50 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.56 %
+Image (svg)   1 hr 29 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.51 %
+CSS           1 hr            ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.05 %
+```
+
+<!--END_SECTION:waka-->
+</details>
+
+---
