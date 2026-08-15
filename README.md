@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center">
+<p>
   <img
     src="https://wsrv.nl/?url=https://github.com/GhazanfarAteeb.png&w=160&h=160&fit=cover&mask=circle"
     alt="Ghazanfar Ateeb"
