@@ -78,8 +78,8 @@ A Discord bot project exploring automation, commands, integrations, and communit
 <div align="center">
 
 <a href="https://github.com/GhazanfarAteeb?tab=followers"><img src="https://img.shields.io/github/followers/GhazanfarAteeb?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
-<a href="https://github.com/GhazanfarAteeb?tab=repositories"><img src="https://img.shields.io/github/public-repos/GhazanfarAteeb?style=for-the-badge&logo=github&label=Public%20Repos" alt="Public repositories" /></a>
-<a href="https://github.com/GhazanfarAteeb?tab=repositories"><img src="https://img.shields.io/github/commit-activity/y/GhazanfarAteeb?style=for-the-badge&logo=github&label=Commits%20This%20Year" alt="Commits this year" /></a>
+<a href="https://github.com/GhazanfarAteeb?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Public repositories" /></a>
+<a href="https://github.com/GhazanfarAteeb"><img src="https://img.shields.io/badge/Activity-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="GitHub activity" /></a>
 
 </div>
 
@@ -87,7 +87,7 @@ A Discord bot project exploring automation, commands, integrations, and communit
   <a href="https://github.com/GhazanfarAteeb">View my GitHub activity →</a>
 </p>
 
-> **Note:** This profile intentionally avoids GitHub Actions-based contribution animations and third-party stats generators, so the README does not depend on workflow execution, repository billing, or external stats rendering services. GitHub's native contribution graph remains available directly on the profile.
+> **Note:** This profile intentionally avoids GitHub Actions-based contribution animations and dynamic stats endpoints, so the README does not depend on workflow execution, repository billing, or third-party statistics services. GitHub's native contribution graph remains available directly on the profile.
 
 ---
 
