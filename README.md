@@ -41,7 +41,6 @@ I build mobile and web products with a focus on **React Native, Flutter, backend
 | 🗄️ Data | PostgreSQL · MongoDB · Redis · SQLite · Firebase · Supabase |
 | ☁️ Cloud | AWS · Google Cloud · Firebase |
 | 🤖 AI / ML | ML Kit · Face Detection · Face Recognition · ONNX / TFLite |
-| ✨ Experience | GSAP · Framer Motion · Three.js · Mobile Performance |
 
 ## 🛠️ Tech Stack
 
