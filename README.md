@@ -87,8 +87,6 @@ A Discord bot project exploring automation, commands, integrations, and communit
   <a href="https://github.com/GhazanfarAteeb">View my GitHub activity →</a>
 </p>
 
-> **Note:** This profile intentionally avoids GitHub Actions-based contribution animations and dynamic stats endpoints, so the README does not depend on workflow execution, repository billing, or third-party statistics services. GitHub's native contribution graph remains available directly on the profile.
-
 ---
 
 <div align="center">
