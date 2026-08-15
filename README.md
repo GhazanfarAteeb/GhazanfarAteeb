@@ -47,7 +47,7 @@ I build mobile and web products with a focus on **React Native, Flutter, backend
 
 ### Mobile & Frontend
 
-<img src="https://skillicons.dev/icons?i=react,flutter,android,html,css" alt="Mobile and frontend" />
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,html,css" alt="Mobile and frontend" />
 
 ### Backend, Database & Cloud
 
