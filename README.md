@@ -67,7 +67,7 @@ I build mobile and web products with a focus on **React Native, Flutter, backend
 
 ## 🌟 Featured Projects
 
-### 🧪 [React Native FaceModelLab](https://github.com/GhazanfarAteeb/react-native-face-model-lab)
+### 🧪 [React Native Face Models Lab](https://github.com/GhazanfarAteeb/react-native-face-model-lab)
 
 A real-device **face recognition benchmarking lab** built with React Native. It compares face detectors and embedding models across speed, model size, inference cost, throughput, and matching quality.
 
