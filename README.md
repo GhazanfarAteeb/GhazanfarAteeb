@@ -73,24 +73,21 @@ A Discord bot project exploring automation, commands, integrations, and communit
 
 > 💡 Explore more projects in my [repositories](https://github.com/GhazanfarAteeb?tab=repositories).
 
-## 📊 GitHub Analytics
+## 📊 GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GhazanfarAteeb&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazanfarAteeb&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+
+<a href="https://github.com/GhazanfarAteeb?tab=followers"><img src="https://img.shields.io/github/followers/GhazanfarAteeb?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+<a href="https://github.com/GhazanfarAteeb?tab=repositories"><img src="https://img.shields.io/github/public-repos/GhazanfarAteeb?style=for-the-badge&logo=github&label=Public%20Repos" alt="Public repositories" /></a>
+<a href="https://github.com/GhazanfarAteeb?tab=repositories"><img src="https://img.shields.io/github/commit-activity/y/GhazanfarAteeb?style=for-the-badge&logo=github&label=Commits%20This%20Year" alt="Commits this year" /></a>
+
 </div>
 
-<br />
+<p align="center">
+  <a href="https://github.com/GhazanfarAteeb">View my GitHub activity →</a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhazanfarAteeb&hide_border=true&theme=transparent" alt="GitHub streak" />
-</div>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/GhazanfarAteeb/GhazanfarAteeb/blob/GIF/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
+> **Note:** This profile intentionally avoids GitHub Actions-based contribution animations and third-party stats generators, so the README does not depend on workflow execution, repository billing, or external stats rendering services. GitHub's native contribution graph remains available directly on the profile.
 
 ---
 
