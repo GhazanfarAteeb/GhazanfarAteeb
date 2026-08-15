@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" style="border-radius: 50%;">
 
-<img src="https://github.com/GhazanfarAteeb.png" width="160" height="160" alt="Ghazanfar Ateeb" style="border-radius: 50%;" />
+<img src="https://github.com/GhazanfarAteeb.png" width="160" height="160" alt="Ghazanfar Ateeb" />
 </div>
 
 # Hey, I'm Ghazanfar Ateeb 👋
