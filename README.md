@@ -47,7 +47,7 @@ I build mobile and web products with a focus on **React Native, Flutter, backend
 
 ### Mobile & Frontend
 
-<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,html,css,tailwind" alt="Mobile and frontend" />
+<img src="https://skillicons.dev/icons?i=react,flutter,expo,html,css,tailwind" alt="Mobile and frontend" />
 
 ### Backend, Database & Cloud
 
@@ -60,6 +60,16 @@ I build mobile and web products with a focus on **React Native, Flutter, backend
 </div>
 
 ## 🌟 Featured Projects
+
+### 🧪 [React Native FaceModelLab](https://github.com/GhazanfarAteeb/react-native-face-model-lab)
+
+A real-device **face recognition benchmarking lab** built with React Native. It compares face detectors and embedding models using a consistent detection, alignment, preprocessing, inference, and cosine-similarity pipeline.
+
+- 🔬 Benchmarks **FaceLiVT, MobileFaceNet, FaceNet, SFace, EdgeFace, GhostFaceNet, SphereFace** and other models.
+- 👁️ Supports **ML Kit, YuNet, SCRFD, and BlazeFace** detection experiments.
+- ⚡ Measures real-world metrics such as **scan duration, inference time, throughput, model load time, and model footprint**.
+- 🍎 Includes **ONNX Runtime and Core ML / Apple Neural Engine** experiments.
+- 🎯 Built to make mobile face-recognition model selection measurable rather than relying only on benchmark scores.
 
 ### 📚 [Deeniyah](https://github.com/GhazanfarAteeb/deeniyah)
 
