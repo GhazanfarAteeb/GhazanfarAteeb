@@ -1,8 +1,20 @@
-<div align="center" style="border-radius: 50%;">
+<div align="center">
+  <svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <clipPath id="circle">
+        <circle cx="80" cy="80" r="80"/>
+      </clipPath>
+    </defs>
 
-<img src="https://github.com/GhazanfarAteeb.png" width="160" height="160" alt="Ghazanfar Ateeb" />
+    <image
+      href="https://github.com/GhazanfarAteeb.png"
+      width="160"
+      height="160"
+      clip-path="url(#circle)"
+      preserveAspectRatio="xMidYMid slice"
+    />
+  </svg>
 </div>
-
 # Hey, I'm Ghazanfar Ateeb 👋
 
 ### Software Engineer · Mobile Developer · Full-Stack Builder
