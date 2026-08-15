@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GhazanfarAteeb/GhazanfarAteeb/main/profile-avatar.png" width="160" height="160" alt="Ghazanfar Ateeb" />
+<img src="https://github.com/GhazanfarAteeb.png" width="160" height="160" alt="Ghazanfar Ateeb" style="border-radius: 50%;" />
+</div>
 
 # Hey, I'm Ghazanfar Ateeb 👋
 
