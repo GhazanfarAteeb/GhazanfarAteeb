@@ -105,6 +105,7 @@ A Discord bot project exploring automation, commands, integrations, and communit
 
 **Open to interesting products, challenging engineering problems, and collaboration.**
 
+<a href="mailto:ghazanfar.ateeb9125@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/ghazanfar-ateeb-41b627210/">LinkedIn</a> ·
 <a href="https://github.com/GhazanfarAteeb">GitHub</a>
 
