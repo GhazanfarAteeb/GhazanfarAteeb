@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/GhazanfarAteeb.png" width="160" height="160" alt="Ghazanfar Ateeb" style="border-radius: 50%;" />
+
 # Hey, I'm Ghazanfar Ateeb 👋
 
 ### Software Engineer · Mobile Developer · Full-Stack Builder
