@@ -73,6 +73,16 @@ A Discord bot project exploring automation, commands, integrations, and communit
 
 > 💡 Explore more projects in my [repositories](https://github.com/GhazanfarAteeb?tab=repositories).
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/GhazanfarAteeb">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhazanfarAteeb&theme=react-dark&bg_color=0d1117&color=58a6ff&line=2ea043&point=ffffff&area=true&area_color=238636&hide_border=true&custom_title=Ghazanfar%20Ateeb%27s%20Contribution%20Graph&days=31" alt="Ghazanfar Ateeb's GitHub contribution graph" />
+</a>
+
+</div>
+
 ## 📊 GitHub Snapshot
 
 <div align="center">
