@@ -63,29 +63,13 @@ I build mobile and web products with a focus on **React Native, Flutter, backend
 
 ### 🧪 [React Native FaceModelLab](https://github.com/GhazanfarAteeb/react-native-face-model-lab)
 
-A real-device **face recognition benchmarking lab** built with React Native. It compares face detectors and embedding models using a consistent detection, alignment, preprocessing, inference, and cosine-similarity pipeline.
+A real-device **face recognition benchmarking lab** built with React Native. It compares face detectors and embedding models across speed, model size, inference cost, throughput, and matching quality.
 
-- 🔬 Benchmarks **FaceLiVT, MobileFaceNet, FaceNet, SFace, EdgeFace, GhostFaceNet, SphereFace** and other models.
-- 👁️ Supports **ML Kit, YuNet, SCRFD, and BlazeFace** detection experiments.
-- ⚡ Measures real-world metrics such as **scan duration, inference time, throughput, model load time, and model footprint**.
-- 🍎 Includes **ONNX Runtime and Core ML / Apple Neural Engine** experiments.
-- 🎯 Built to make mobile face-recognition model selection measurable rather than relying only on benchmark scores.
-
-### 📚 [Deeniyah](https://github.com/GhazanfarAteeb/deeniyah)
-
-A gamified Islamic learning platform built with **React Native**, supporting iOS and Android alongside a web-based CMS/admin experience. The product adapts content to different age and knowledge levels.
+**Highlights:** FaceLiVT · MobileFaceNet · FaceNet · SFace · EdgeFace · GhostFaceNet · SphereFace · ML Kit · YuNet · SCRFD · BlazeFace · ONNX Runtime · Core ML / Apple Neural Engine.
 
 ### 🤖 [Raphael Discord Bot](https://github.com/GhazanfarAteeb/raphael-discord-bot)
 
 A Discord bot project exploring automation, commands, integrations, and community-focused functionality.
-
-### 📱 [WhatsApp Clone — Android](https://github.com/GhazanfarAteeb/WhatsApp-Clone-Android)
-
-An Android project focused on recreating core messaging application patterns and mobile UI interactions.
-
-### 🏛️ [Land Registry Application](https://github.com/GhazanfarAteeb/Land-Registry-Application)
-
-An application project focused on managing land/property registry information and workflows.
 
 > 💡 Explore more projects in my [repositories](https://github.com/GhazanfarAteeb?tab=repositories).
 
